@@ -1,0 +1,17 @@
+Primera iteracion funcional
+
+ENTREGA: 4 de Mayo
+CONSIGNAS: 2do proto en css y html estatico y un informe con transformaciones hubo entre prototipo y la maqueta html porq no conseguiamos cosas en html y eso. Zipeado y subido a sakai.
+
+1) Generar estructura del sitio--> Hay convencion:
+a)  \style ó \css
+b)  \script ó \js
+c)  \images ó \img
+d) *.html todos los archivos tienen que estar en la raíz.
+home tieene q llamarse: index.html
+
+2) Usar path relativos, no poner toda la ruta completa. pq cuando lo instalemos en eiffel no va a andar. sólo ponemos /index. Porque todo el otro contenido es dinámico.
+
+3) Eiffel es Unix por lo tano es CASE SENSITIVE!! entonces si llamo TPL3.html y desp hago href="tpl3.html" 
+NO FUNCA!! usar todo minuscula. Ser consistentes.
+
